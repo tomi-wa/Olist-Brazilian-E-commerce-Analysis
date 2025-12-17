@@ -1,4 +1,4 @@
-# 📊 Olist Brazilian E-commerce Analytics Project
+#  Olist Brazilian E-commerce Analytics Project
 
 ##  Project Overview
 This project presents an end-to-end analysis of the **Olist Brazilian E-commerce dataset**, focusing on understanding **sales performance, customer behavior, seller efficiency, logistics operations, payment behavior, and customer review sentiment**.
@@ -34,7 +34,7 @@ The dataset consists of multiple relational tables representing real-world e-com
 These datasets were cleaned, standardized, and merged into a single analytical table for visualization and modeling.
 
 
-## 🧹 Data Preparation & Feature Engineering
+##  Data Preparation & Feature Engineering
 Data cleaning and preparation were performed in **Python (Jupyter Notebook)** and included:
 - Handling missing and inconsistent values
 - Standardizing date and time formats
@@ -122,6 +122,3 @@ Integrating seller performance metrics with customer review sentiment provides a
 - **DAX** – KPI calculations and time-based analysis
 - **Microsoft Excel** – Supporting data inspection
 
-
-
-## 📂 Repository Structure
